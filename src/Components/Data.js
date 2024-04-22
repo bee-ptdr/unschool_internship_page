@@ -1,0 +1,96 @@
+const data = [
+    {
+        company : "InfoBean Technology",
+        type : "Coding",
+        duration : "1 Month",
+        stipend : "Experience Latter",
+        role : "R & Django Programming",
+    },
+    {
+        company : "47 Billion",
+        type : "Coding",
+        duration : "1 Month",
+        stipend : "Experience Latter",
+        role : "Java & Python",
+    },
+    {
+        company : "InfoGrains IT",
+        type : "Coding",
+        duration : "1 Month",
+        stipend : "Experience Latter",
+        role : "R & Django Programming",
+    },
+    {
+        company : "InfoGrains IT",
+        type : "Design",
+        duration : "1 Month",
+        stipend : "Experience Latter",
+        role : "Graphic Designing",
+    },
+    {
+        company : "ProtonsHub It Solution",
+        type : "Design",
+        duration : "3 Month",
+        stipend : "3-5K/month",
+        role : "UI/UX",
+    },
+    {
+        company : "BridgeFix",
+        type : "Design",
+        duration : "6 Month",
+        stipend : "3K/month",
+        role : "Web Designing",
+    },
+    {
+        company : "InfoGrains IT",
+        type : "Design",
+        duration : "1 Month",
+        stipend : "Experience Latter",
+        role : "Graphic Designing",
+    },
+    {
+        company : "InfoGrains IT",
+        type : "Design",
+        duration : "1 Month",
+        stipend : "Experience Latter",
+        role : "Graphic Designing",
+    },
+    {
+        company : "Milestone Online Technology",
+        type : "Finance",
+        duration : "3 Month",
+        stipend : "5K/month",
+        role : "Financial Analyst",
+    },
+    {
+        company : "Oxygent Consulting Service",
+        type : "Management",
+        duration : "1 Month",
+        stipend : "Experience Latter",
+        role : "Operation Management",
+    },
+    {
+        company : "Arihant Capital",
+        type : "Marketing",
+        duration : "6 Month",
+        stipend : "3K/month",
+        role : "Customer Relationship",
+    },
+    {
+        company : "Canopus InfoSystem",
+        type : "Technology",
+        duration : "6 Month",
+        stipend : "5K/month",
+        role : "Web Development",
+    },
+    {
+        company : "CodeZone Information Technology",
+        type : "Technology",
+        duration : "3 Month",
+        stipend : "3K/month",
+        role : "Ethical Hacking",
+    },
+
+]
+
+export default data;
